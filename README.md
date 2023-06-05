@@ -2,7 +2,7 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I'm Raj 
 </h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rajrikhy.rajrikhy)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dannyk03.dannyk03)
 
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajrikhy&layout=compact&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="rajrikhy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannyk03&layout=compact&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="rajrikhy" /></a>
 </p>
 
 <br>
