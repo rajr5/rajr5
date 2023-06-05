@@ -35,7 +35,7 @@
 ### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=dannyk03&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="danny's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dannyk03&theme=tokyonight&hide_border=true" alt="danny's github streak" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrikhy&theme=tokyonight&hide_border=true" alt="danny's github streak" width="48%" >
 
 ---
 
